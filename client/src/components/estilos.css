@@ -1,0 +1,8 @@
+.FormNewDog {
+ flex-grow: 1;
+ width: 100%;
+ padding: 10 px;
+ border-radius: 3px;
+ border: solid 1px #999;
+}
+

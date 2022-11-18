@@ -1,0 +1,30 @@
+.nav {
+    margin: 20px 0;
+}
+
+.ul {
+    list-style: none;
+    text-align: center;
+}
+
+.li {
+    display: inline-block;
+    margin-right: 5px;
+
+}
+
+.a {
+    display: flex;
+    padding: 10 px 20 px;
+    color: aliceblue;
+    background: #024959;
+    text-decoration: none;
+    width: 20px;
+ 
+    justify-content: center;
+
+}
+
+.a:hover{
+    background: rgb(138, 139, 146);
+}
